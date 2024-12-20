@@ -1,1 +1,16 @@
-theme: jekyll-theme-minimal
+title: "Prahalad Atreyaa Ashok"
+description: "A personal site using Minimal Mistakes"
+baseurl: "https://prahaladatreyaa.github.io/prahaladatreyaa/" # If using <username>.github.io repo, keep this empty
+url: "https://your-username.github.io" # change to your actual GitHub Pages URL
+theme: minimal-mistakes-jekyll
+# theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minimal Mistakes theme settings
+minimal_mistakes_skin: "default"
+owner:
+  name: "Your Name"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Short bio about yourself."
