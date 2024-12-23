@@ -3,7 +3,6 @@ title: "About"
 permalink: "/about/"
 layout: single
 author_profile: true
----
 
 Hello! I’m **Prahalad Atreyaa**, and here’s a bit about my background:
 
