@@ -1,10 +1,7 @@
 ---
 layout: home
-author_profile: true
+title: "Home"
+permalink: "/"
 ---
 
-## Welcome to Webpage of Prahalad Atreyaa Ashok
-
-Welcome to my personal site! Here I showcase my projects, research, and interests.
-
-
+Welcome to my personal website! I'm **Prahalad Atreyaa**—a researcher, developer, or hobbyist exploring ML, LLMs, AI, GPU, CUDA, Distributed systems, Software engineering with Back-end development focus.
