@@ -46,12 +46,14 @@ baseurl: ""
 # ----------------------------------------------------------
 # Theme Settings
 # ----------------------------------------------------------
-theme: minimal-mistakes-jekyll
+# Use the remote theme instead:
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Build plugins (GitHub Pages + others)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme # Make sure jekyll-remote-theme is enabled
 
 # Choose a built-in Minimal Mistakes skin. Options include:
 # "default", "dark", "solarized", "air", "contrast", "neon", etc.
