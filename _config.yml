@@ -86,6 +86,7 @@ header:
 # ----------------------------------------------------------
 # Default Layouts and Author Profile
 # ----------------------------------------------------------
+# Defaults so pages/posts use single layout and show author profile
 defaults:
   - scope:
       path: ""
@@ -93,6 +94,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   - scope:
       path: ""
       type: "posts"
