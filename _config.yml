@@ -81,7 +81,7 @@ author:
 
 # If you don't want to show the site title in the header, you can do:
 # masthead:
-#   title: true
+#   title: false
 
 
 # If you prefer a separate file, you can place the nav in _data/navigation.yml
