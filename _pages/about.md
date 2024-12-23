@@ -1,10 +1,7 @@
----
-title: "About Me"
+title: "About"
 permalink: "/about/"
-# We already have defaults in _config.yml:
-# layout: single
-# author_profile: true
----
+layout: single
+author_profile: true
 
 Hello! I’m **Prahalad Atreyaa**, and here’s a bit about my background:
 
