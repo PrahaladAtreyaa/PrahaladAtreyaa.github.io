@@ -1,28 +1,110 @@
-title: "Prahalad Atreyaa Ashok"
-description: "A personal site using Minimal Mistake"
-baseurl: "" # If using <username>.github.io repo, keep this empty
-url: "https://prahaladatreyaa.github.io" # change to your actual GitHub Pages URL
+# title: "Prahalad Atreyaa Ashok"
+# description: "A personal site using Minimal Mistake"
+# baseurl: "" # If using <username>.github.io repo, keep this empty
+# url: "https://prahaladatreyaa.github.io" # change to your actual GitHub Pages URL
+# theme: minimal-mistakes-jekyll
+# include:
+#   - "_images"
+# # theme: jekyll-theme-minimal
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+
+# # Navigation setup (optional)
+# navigation:
+#   main:
+#     - title: "Home"
+#       url: "/"
+#     - title: "About"
+#       url: "/about/"
+#     - title: "Projects"
+#       url: "/projects/"
+
+# # Minimal Mistakes theme settings
+# minimal_mistakes_skin: "default"
+# author:
+#   name: "Prahalad Atreyaa"
+#   avatar: "/assets/images/prahalad_dp.jpg"
+#   bio: "SDE 3 who has 5.5 + years (including internships) in back end software development & research roles. Predominantly in Java (Spring boot), Python (flask), & Javascript based technical stack/ frameworks."
+
+
+
+# _config.yml
+
+# ----------------------------------------------------------
+# Basic Site Settings
+# ----------------------------------------------------------
+title: "Prahalad Atreyaa"
+description: "A simplified yet classic personal website using Jekyll + Minimal Mistakes"
+# If your repository is named <username>.github.io, set:
+url: "https://prahaladatreyaa.github.io"
+baseurl: ""
+# If your site is hosted at https://<username>.github.io/my-site, set:
+# url: "https://<username>.github.io"
+# baseurl: "/my-site"
+
+# ----------------------------------------------------------
+# Theme Settings
+# ----------------------------------------------------------
 theme: minimal-mistakes-jekyll
-include:
-  - "_images"
-# theme: jekyll-theme-minimal
+
+# Build plugins (GitHub Pages + others)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation setup (optional)
+# Choose a built-in Minimal Mistakes skin. Options include:
+# "default", "dark", "solarized", "air", "contrast", "neon", etc.
+minimal_mistakes_skin: "default"
+
+# If you'd like to use the "excerpt_separator" for post previews
+# excerpt_separator: "<!--more-->"
+
+# ----------------------------------------------------------
+# Site Author Details
+# ----------------------------------------------------------
+author:
+  name: "Prahalad Atreyaa"
+  avatar: "/assets/images/prahalad_dp.jpg"
+  bio: "SDE 3 who has 5.5 + years (including internships) in back end software development & research roles. Predominantly in Java (Spring boot), Python (flask), & Javascript based technical stack/ frameworks."
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/prahaladatreyaa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/prahaladatreyaaa/"
+    # Add more links (Twitter, Google Scholar, etc.) as desired
+
+# ----------------------------------------------------------
+# Navigation
+# ----------------------------------------------------------
+# Option A: Inline navigation in _config.yml
 navigation:
   main:
     - title: "Home"
       url: "/"
     - title: "About"
       url: "/about/"
-    - title: "Projects"
-      url: "/projects/"
+    - title: "Research"
+      url: "/research/"
 
-# Minimal Mistakes theme settings
-minimal_mistakes_skin: "default"
-author:
-  name: "Prahalad Atreyaa"
-  avatar: "/assets/images/prahalad_dp.jpg"
-  bio: "SDE 3 who has 5.5 + years (including internships) in back end software development & research roles. Predominantly in Java (Spring boot), Python (flask), & Javascript based technical stack/ frameworks."
+# If you prefer a separate file, you can place the nav in _data/navigation.yml
+
+# ----------------------------------------------------------
+# Default Layouts and Author Profile
+# ----------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
