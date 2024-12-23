@@ -73,6 +73,9 @@ author:
 # masthead:
 #   title: false
 
+# Reading Files
+include:
+  - _pages
 
 # If you prefer a separate file, you can place the nav in _data/navigation.yml
 
