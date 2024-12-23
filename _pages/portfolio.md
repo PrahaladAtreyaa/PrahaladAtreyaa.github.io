@@ -15,4 +15,4 @@ permalink: /portfolio/
 - **Terraform templates**: For more details, check out the below link:
   - [Starter terraform templates for AWS, Azure and GCP](https://github.com/PrahaladAtreyaa/terraform_templates_csc_latest)
 - **NodeJS payment client contractor transactions**: For more details, check out the below link:
-  - [NodeJS project for client contractor payment transactions and contract mapping with concurrency](https://github.com/PrahaladAtreyaa/nodejspaymentclientcontractortransactions)
+  - [NodeJS back end project](https://github.com/PrahaladAtreyaa/nodejspaymentclientcontractortransactions)
