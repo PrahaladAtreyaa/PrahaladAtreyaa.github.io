@@ -57,11 +57,11 @@ author:
 header:
   nav:
     - title: "Home"
-      url: "/"
+      url: /
     - title: "About"
-      url: "/about/"
+      url: /about/
     - title: "Research"
-      url: "/research/"
+      url: /research/
 
 # # Navigation
 # nav:
