@@ -3,6 +3,8 @@ description: "A personal site using Minimal Mistake"
 baseurl: "" # If using <username>.github.io repo, keep this empty
 url: "https://prahaladatreyaa.github.io" # change to your actual GitHub Pages URL
 theme: minimal-mistakes-jekyll
+include:
+  - "_images"
 # theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
