@@ -7,7 +7,7 @@ permalink: /research/
 - Computer Science: Large language models, Machine learning, Video LLMs, SLMs, Artificial intelligence, Computer vision
 - Software Engineering: Distributed systems, Databases, Cloud computing
 - Mathematics: Topology, Game theory, Linear Algebra, Discrete mathematics
-- Inter-disciplinary: AI in drug discovery, Computation social science, Binformatics, Personalized medicines, and Algorithmic Game theory
+- Inter-disciplinary: Robotics, Human-Computer Interface, AI in drug discovery, Computation social science, Binformatics, Personalized medicines, and Algorithmic Game theory
 
 ## Current Projects
 - **Project or Paper 1**: A short description or abstract.  
