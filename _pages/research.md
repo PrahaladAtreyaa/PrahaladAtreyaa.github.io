@@ -1,8 +1,6 @@
 ---
 title: "Research"
 permalink: "/research/"
-# layout: single (set by default)
-# author_profile: true
 ---
 
 ## Research Interests
