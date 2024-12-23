@@ -5,7 +5,8 @@ permalink: /portfolio/
 
 ## Current Projects
 
-
+- INDMoney clone with simplified UX.
+- Aggregator app
 
 ## Projects
 
@@ -13,3 +14,5 @@ permalink: /portfolio/
   - [Google drive file picker and read system](https://github.com/PrahaladAtreyaa/file-picker-and-read)
 - **Terraform templates**: For more details, check out the below link:
   - [Starter terraform templates for AWS, Azure and GCP](https://github.com/PrahaladAtreyaa/terraform_templates_csc_latest)
+- **NodeJS payment client contractor transactions**: For more details, check out the below link:
+  - [NodeJS project for client contractor payment transactions and contract mapping with concurrency](https://github.com/PrahaladAtreyaa/nodejspaymentclientcontractortransactions)
