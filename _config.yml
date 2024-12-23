@@ -1,34 +1,3 @@
-# title: "Prahalad Atreyaa Ashok"
-# description: "A personal site using Minimal Mistake"
-# baseurl: "" # If using <username>.github.io repo, keep this empty
-# url: "https://prahaladatreyaa.github.io" # change to your actual GitHub Pages URL
-# theme: minimal-mistakes-jekyll
-# include:
-#   - "_images"
-# # theme: jekyll-theme-minimal
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
-
-# # Navigation setup (optional)
-# navigation:
-#   main:
-#     - title: "Home"
-#       url: "/"
-#     - title: "About"
-#       url: "/about/"
-#     - title: "Projects"
-#       url: "/projects/"
-
-# # Minimal Mistakes theme settings
-# minimal_mistakes_skin: "default"
-# author:
-#   name: "Prahalad Atreyaa"
-#   avatar: "/assets/images/prahalad_dp.jpg"
-#   bio: "SDE 3 who has 5.5 + years (including internships) in back end software development & research roles. Predominantly in Java (Spring boot), Python (flask), & Javascript based technical stack/ frameworks."
-
-
-
 # _config.yml
 
 # ----------------------------------------------------------
@@ -46,17 +15,10 @@ baseurl: ""
 # ----------------------------------------------------------
 # Theme Settings
 # ----------------------------------------------------------
-# # Use the remote theme instead:
-# remote_theme: "mmistakes/minimal-mistakes"
 # This is the key to using Minimal Mistakes as a remote theme:
 remote_theme: "mmistakes/minimal-mistakes"
 
 # # Build plugins (GitHub Pages + others)
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
-#   - jekyll-remote-theme # Make sure jekyll-remote-theme is enabled
-
 # Required plugin for remote themes:
 plugins:
   - jekyll-remote-theme
@@ -92,15 +54,34 @@ author:
 # ----------------------------------------------------------
 # Navigation
 # ----------------------------------------------------------
-# Option A: Inline navigation in _config.yml
-navigation:
-  main:
+# # Option A: Inline navigation in _config.yml
+# navigation:
+#   main:
+#     - title: "Home"
+#       url: "/"
+#     - title: "About"
+#       url: "/about"
+#     - title: "Research"
+#       url: "/research"
+
+# -------------------------------------------------------
+# Header Navigation (Top Nav Bar)
+# -------------------------------------------------------
+# This ensures About and Research appear at the top of every page that uses
+# a default Minimal Mistakes layout with the masthead.
+header:
+  nav:
     - title: "Home"
       url: "/"
     - title: "About"
       url: "/about"
     - title: "Research"
       url: "/research"
+
+# If you don't want to show the site title in the header, you can do:
+# masthead:
+#   title: false
+
 
 # If you prefer a separate file, you can place the nav in _data/navigation.yml
 
