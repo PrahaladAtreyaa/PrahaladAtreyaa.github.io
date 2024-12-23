@@ -74,9 +74,9 @@ header:
     - title: "Home"
       url: "/"
     - title: "About"
-      url: "/about"
+      url: "/about/"
     - title: "Research"
-      url: "/research"
+      url: "/research/"
 
 # If you don't want to show the site title in the header, you can do:
 # masthead:
