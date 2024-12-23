@@ -46,7 +46,10 @@ author:
       url: "https://github.com/prahaladatreyaa"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/prahaladatreyaaa/"
+      url: "https://www.linkedin.com/in/prahaladatreyaaa/"\
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=EzpQM1sAAAAJ&hl=en"
     # Add more links (Twitter, Google Scholar, etc.) as desired
 
 # -------------------------------------------------------
