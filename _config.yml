@@ -66,6 +66,8 @@ author:
 #     - title: "Research"
 #       url: /research/
 
+header:
+  nav: site.data.navigation.main
 
 # If you don't want to show the site title in the header, you can do:
 # masthead:
