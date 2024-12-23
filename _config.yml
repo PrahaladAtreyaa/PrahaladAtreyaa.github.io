@@ -98,9 +98,9 @@ navigation:
     - title: "Home"
       url: "/"
     - title: "About"
-      url: "/about/"
+      url: "/about"
     - title: "Research"
-      url: "/research/"
+      url: "/research"
 
 # If you prefer a separate file, you can place the nav in _data/navigation.yml
 
