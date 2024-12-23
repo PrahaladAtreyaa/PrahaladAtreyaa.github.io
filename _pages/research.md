@@ -11,10 +11,9 @@ permalink: /research/
 
 ## Current Projects
 
-- **Reducing hallucination in text to workflow generation using Large Language Models**: A short description or abstract.  
-  - Abstract submitted. It is a work in progress.
-- **Text to terraform templates generation**: A short description or abstract.  
-  - Abstract submitted. It is a work in progress.
+- **Reducing hallucination in terraform template generation**: One of the well known cons of Large language models is its tendency to hallucinate. While LLMs has been an impetus to the latest AI adoption surge, the adoption is heavily dependent on how well the hallucination/ errors are handled. Given that real world systems more often than not are predisposed to value a closer to deterministic response as opposed to a more probabilistic one. The evolutionary computation methods are employed to reduce hallucination in terraform template generation. We will be looking into different genetic algorithm methods by developing a custom fitness score, mutation rate and mortality rate. We will be comparing existing models along with a custom data set and delve into the pros and cons of this approach.
+- **Reducing hallucination in structured outputs via Retrieval-Augmented Generation with higher synergy**: The drawback of Generative AI approach for text to low-code flow's generation at the enterprise level is the hallucinations and the trade off considerations between model size and performance. We will be delving into ways to create better synergy between Retriever and LLM through joint training or by improving model architecture. In addition, we will be looking at ways to optimize model size and performance.
+- **Enhancing LLMs with Synthetic Data: Case Studies in Data Augmentation, Bias mitigation, and model robustness**: The rapid pace in Ai development through LLMs has largely been powered by availability of vast amounts of data. However, there are challenges in obtaining data pertaining to specific domains due to data regulations, data scarcity, et al. This paper explores the application of synthetic data generation to enhance LLMs by presenting detailed case studies on data augmentation in low-resource domains, bias mitigation, and robustness testing. These case studies highlight the potential of synthetic data not only as a stopgap solution for data scarcity but also as a tool to generate less biased and more reliable LLMs. The findings underscore the need for continued innovation in methodologies to generate synthetic data.
  
 ## Past Projects
 
