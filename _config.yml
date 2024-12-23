@@ -49,19 +49,6 @@ author:
       url: "https://www.linkedin.com/in/prahaladatreyaaa/"
     # Add more links (Twitter, Google Scholar, etc.) as desired
 
-# ----------------------------------------------------------
-# Navigation
-# ----------------------------------------------------------
-# # Option A: Inline navigation in _config.yml
-# navigation:
-#   main:
-#     - title: "Home"
-#       url: "/"
-#     - title: "About"
-#       url: "/about"
-#     - title: "Research"
-#       url: "/research"
-
 # -------------------------------------------------------
 # Header Navigation (Top Nav Bar)
 # -------------------------------------------------------
