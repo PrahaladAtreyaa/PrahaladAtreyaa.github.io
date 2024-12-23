@@ -46,14 +46,24 @@ baseurl: ""
 # ----------------------------------------------------------
 # Theme Settings
 # ----------------------------------------------------------
-# Use the remote theme instead:
+# # Use the remote theme instead:
+# remote_theme: "mmistakes/minimal-mistakes"
+# This is the key to using Minimal Mistakes as a remote theme:
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Build plugins (GitHub Pages + others)
+# # Build plugins (GitHub Pages + others)
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+#   - jekyll-remote-theme # Make sure jekyll-remote-theme is enabled
+
+# Required plugin for remote themes:
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme # Make sure jekyll-remote-theme is enabled
+  - jekyll-include-cache   # <--- IMPORTANT for 'include_cached' used by Minimal Mistakes
+
 
 # Choose a built-in Minimal Mistakes skin. Options include:
 # "default", "dark", "solarized", "air", "contrast", "neon", etc.
