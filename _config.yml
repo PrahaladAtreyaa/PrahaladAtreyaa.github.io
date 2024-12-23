@@ -80,8 +80,8 @@ author:
 #     href:           "/blog"
 
 # If you don't want to show the site title in the header, you can do:
-# masthead:
-#   title: false
+masthead:
+  title: false
 
 
 # If you prefer a separate file, you can place the nav in _data/navigation.yml
