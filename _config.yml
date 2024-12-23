@@ -54,27 +54,27 @@ author:
 # -------------------------------------------------------
 # This ensures About and Research appear at the top of every page that uses
 # a default Minimal Mistakes layout with the masthead.
-header:
-  nav:
-    - title: "Home"
-      url: /
-    - title: "About"
-      url: /about/
-    - title: "Research"
-      url: /research/
+# header:
+#   nav:
+#     - title: "Home"
+#       url: /
+#     - title: "About"
+#       url: /about/
+#     - title: "Research"
+#       url: /research/
 
-# # Navigation
-# nav:
-#   - name:           "home"
-#     href:           "/"
-#   - name:           "about"
-#     href:           "/about"
-#   - name:           "publications"
-#     href:           "/publication"
-#   - name:           "people"
-#     href:           "/people"
-#   - name:           "blog"
-#     href:           "/blog"
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about/"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  - name:           "blog"
+    href:           "/blog"
 
 # If you don't want to show the site title in the header, you can do:
 # masthead:
