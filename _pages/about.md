@@ -3,6 +3,8 @@ title: "About"
 permalink: "/about/"
 ---
 
+## About Me
+
 Hello! I’m **Prahalad Atreyaa**, and here’s a bit about my background:
 
 - **Education**: BE (Hons) Electrical and Electronics Engineering & MSc (Hons) Mathematics
