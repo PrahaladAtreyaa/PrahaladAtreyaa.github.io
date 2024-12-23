@@ -23,8 +23,3 @@ permalink: /research/
 - **Resolution of River water allocation conflicts using game theory**: Amid looming global water shortages—where demand could outstrip supply by 40% by 2030—this project proposes a two-level game-theoretic model for sustainable distribution, applied to Bengaluru’s water crisis. In Level 1, central authorities allocate water among states, reaching a Nash equilibrium in cooperative or non-cooperative modes. In Level 2, environmental bodies, industries, citizens, and states react to these allocations, resulting in a system of partial differential equations that identify final equilibria. By employing both Nash Equilibrium and Shapley Value approaches, this framework balances stakeholder interests and guides more equitable, science-based water policies.
 
 - **Optimal coalition structure problem with voting indices computation using an influence matrix**: This project tackles the optimal coalition structure problem—specifically focusing on critical coalitions needed to pass key bills in India’s parliament. By using a subset generator function and an influence matrix, we account for relationships among various political agents and compute their voting indices under different quotas. To scale efficiently for larger sets of agents, we introduce evolutionary algorithms, including genetic algorithms, to determine coalition configurations with minimal error. Balancing factors like mutation rate proves pivotal for convergence. Ultimately, this framework provides deeper insight into how coalitions might form or dissolve to pass (or block) legislation.
-
-
-## Join me
-
-I actively seek to collaborate with others in these areas. Please feel free to reach out if you're interested in discussing research or potential collaborations.
