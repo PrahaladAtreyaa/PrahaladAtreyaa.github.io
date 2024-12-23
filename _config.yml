@@ -11,6 +11,6 @@ plugins:
 # Minimal Mistakes theme settings
 minimal_mistakes_skin: "default"
 owner:
-  name: "Your Name"
-  avatar: "/assets/images/avatar.jpg"
-  bio: "Short bio about yourself."
+  name: "Prahalad Atreyaa"
+  avatar: "/assets/images/prahalad.jpg"
+  bio: "SDE 3 who has 5.5 + years (including internships) in back end software development & research roles. Predominantly in Java (Spring boot), Python (flask), & Javascript based technical stack/ frameworks."
