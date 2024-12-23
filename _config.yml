@@ -63,6 +63,19 @@ header:
     - title: "Research"
       url: "/research/"
 
+# # Navigation
+# nav:
+#   - name:           "home"
+#     href:           "/"
+#   - name:           "about"
+#     href:           "/about"
+#   - name:           "publications"
+#     href:           "/publication"
+#   - name:           "people"
+#     href:           "/people"
+#   - name:           "blog"
+#     href:           "/blog"
+
 # If you don't want to show the site title in the header, you can do:
 # masthead:
 #   title: false
